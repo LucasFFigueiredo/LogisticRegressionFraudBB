@@ -65,4 +65,4 @@ pip install matplotlib
 ---
 
 # ✍️ Author & Motivation
-This project was developed for educational and portfolio purposes. It demonstrates a full machine learning pipeline—from feature engineering and preprocessing to training, threshold selection, and inference—using free and easily reproducible tools.
+This project was developed for educational and portfolio purposes. It demonstrates a full machine learning pipeline from feature engineering and preprocessing to training, threshold selection, and inference using free and easily reproducible tools.
