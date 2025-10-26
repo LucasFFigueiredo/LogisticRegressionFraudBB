@@ -16,8 +16,6 @@ A compact and reproducible pipeline that trains a Logistic Regression model to d
 
 - Automatic Threshold Selection: The model automatically selects the optimal probability cut-off that maximizes the F1-Score.
 
-- Portfolio-Ready: An ideal project for your portfolio, showcasing your skills in feature engineering and model evaluation.
-
 ---
 
 ## 📂 Repository Contents
